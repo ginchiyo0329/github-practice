@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv / PyInstaller outputs
+grayscale_tool/.venv/
+grayscale_tool/build/
+grayscale_tool/dist/
+
+# 作業用出力
+grayscale_output/
+
+# OS
+.DS_Store
+Thumbs.db
